@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(25, 46, 53);
+    color: rgb(255, 128, 128);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.ballImage{
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+
+.header{
+    text-align: center;
+
+}
+
+.link{
+    background-color:rgb(199, 79, 63);
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-flex;
+    font-weight: bold;
+    color: rgb(12, 48, 48);
+    margin:5px; 
+    text-decoration: none;
+    border-style: ridge;
+}
